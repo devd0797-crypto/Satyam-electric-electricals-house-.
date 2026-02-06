@@ -53,3 +53,54 @@
 
 </body>
 </html> Satyam-electric-electricals-house-.
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #f5f5f5;
+  text-align: center;
+}
+
+header {
+  background: #0a4cff;
+  color: white;
+  padding: 20px;
+}
+
+section {
+  background: white;
+  margin: 15px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  padding: 6px;
+}
+
+.gallery img {
+  width: 90%;
+  max-width: 300px;
+  margin: 8px;
+  border-radius: 6px;
+}
+
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 20px;
+  background: #0a4cff;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+footer {
+  background: #222;
+  color: white;
+  padding: 10px;
+}
